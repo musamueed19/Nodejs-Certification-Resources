@@ -62,19 +62,19 @@ Nodejs-Certification-Resources/
 
 🌱 **1. Basics**  
 Event Loop • Modules • File System • HTTP  
-&emsp;&emsp;⬇️
+&emsp;&emsp;⬇️<br>
 ⚡ **2. Advanced Topics**  
 Streams • Buffers • Clustering • Performance • Security  
-&emsp;&emsp;⬇️
+&emsp;&emsp;⬇️<br>
 🛠️ **3. Practicals & Mini Projects**  
 Hands-on exercises • API Server • Authentication • Database connections  
-&emsp;&emsp;⬇️
+&emsp;&emsp;⬇️<br>
 🎯 **4. Certification Prep**  
 MCQs
 • Common Errors
 • Mock Tests
 • Interview-style Questions  
-&emsp;&emsp;⬇️  
+&emsp;&emsp;⬇️<br>  
 🚀 **5. Real Projects**  
 Build production-level apps
 • Debugging with Chrome DevTools

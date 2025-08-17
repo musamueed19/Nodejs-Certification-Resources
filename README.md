@@ -61,34 +61,34 @@ Nodejs-Certification-Resources/
 > Follow this step-by-step path to master Node.js for certifications and real-world development:
 
 🌱 **1. Basics**  
-Event Loop
-• Modules
-• File System
-• HTTP  
+Event Loop<br>
+• Modules<br>
+• File System<br>
+• HTTP<br>  
 ⬇️<br>
 ⚡ **2. Advanced Topics**  
-Streams
-• Buffers
-• Clustering
-• Performance
-• Security  
+Streams<br>
+• Buffers<br>
+• Clustering<br>
+• Performance<br>
+• Security<br>  
 ⬇️<br>
 🛠️ **3. Practicals & Mini Projects**  
-Hands-on exercises
-• API Server
-• Authentication
-• Database connections  
+Hands-on exercises<br>
+• API Server<br>
+• Authentication<br>
+• Database connections<br>  
 ⬇️<br>
 🎯 **4. Certification Prep**  
-MCQs
-• Common Errors
-• Mock Tests
-• Interview-style Questions  
+MCQs<br>
+• Common Errors<br>
+• Mock Tests<br>
+• Interview-style Questions<br>  
 ⬇️<br>  
 🚀 **5. Real Projects**  
-Build production-level apps
-• Debugging with Chrome DevTools
-• Deployment strategies  
+Build production-level apps<br>
+• Debugging with Chrome DevTools<br>
+• Deployment strategies<br>  
 
 
 

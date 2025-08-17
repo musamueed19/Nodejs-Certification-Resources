@@ -47,12 +47,12 @@ This repo is designed to:
 
 Nodejs-Certification-Resources/
 
-├── basics/
-├── advanced/
-├── practicals/
-├── certification/
-├── resources/
-└── README.md   👈
+├── basics/<br>
+├── advanced/<br>
+├── practicals/<br>
+├── certification/<br>
+├── resources/<br>
+└── README.md👈
 
 ---
 
